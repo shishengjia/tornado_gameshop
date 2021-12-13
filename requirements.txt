@@ -12,7 +12,7 @@ chardet==3.0.4
 crypto==1.4.1
 cryptography==2.5
 idna==2.8
-lxml==4.3.1
+lxml==4.6.5
 multidict==4.5.2
 Naked==0.1.31
 peewee==3.8.2
